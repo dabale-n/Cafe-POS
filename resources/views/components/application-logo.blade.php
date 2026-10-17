@@ -1,0 +1,1 @@
+<img src="{{ asset('logo.png') }}" alt="UniCafe Logo" style="height: 48px; width: auto;" {{ $attributes }}>
